@@ -1,4 +1,10 @@
 voila==0.2.6
 numpy
-
-opencv-contrib-python==4.5.3.56
+opencv-python-headless
+scipy
+pillow
+pandas
+peakutils
+matplotlib
+plotly
+psutil
